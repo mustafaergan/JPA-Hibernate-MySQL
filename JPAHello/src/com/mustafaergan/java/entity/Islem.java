@@ -94,6 +94,9 @@ public class Islem {
 		   System.out.println("name : " + e.getName() );
 	   }
 
+	   
+	   
+	   
 		
 		em.close();
 		emf.close();
