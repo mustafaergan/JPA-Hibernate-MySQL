@@ -24,8 +24,8 @@ bilgisini çalışırken alan `JPASecurity`.
 ## Teknolojiler
 
 - Java 8, Maven
-- JPA 2.1, Hibernate 5.2.10 (`hibernate-core`, `hibernate-entitymanager`)
-- MySQL, `mysql-connector-java` 5.1.31
+- JPA 2.1, Hibernate 5.3.38 (`hibernate-core`, `hibernate-entitymanager`)
+- MySQL, `mysql-connector-java` 5.1.49
 
 ## Çalıştırma
 
